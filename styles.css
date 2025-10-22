@@ -317,7 +317,7 @@ border-radius: 8px 8px 0 0;
   transform: translate(-50%, -50%);
   backdrop-filter: blur(2px);
   background: linear-gradient(145deg,rgba(30,39,73,.95),rgba(10,15,31,0.9));
-  z-index: 99;
+  z-index: 999;
 }
 #contact-wrapper .xbutton{
   border:1px solid darkgreen;
